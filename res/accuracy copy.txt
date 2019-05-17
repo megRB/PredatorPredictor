@@ -10,5 +10,9 @@ cnn_we_pooling_kaggle_accuracy:0.8399029715340235
 lr_dataworld_accuracy:0.959489993544222
 nb_dataworld_accuracy:0.9067140090380891
 cnn_bow_dataworld_accuracy:0.9480309876955425
+cnn_bow_dataworld_precision:0.9613618974751339
+cnn_bow_dataworld_recall:0.9763014763014763
 cnn_we_dataworld_accuracy:0.9478695932475115
+cnn_we_dataworld_precision:0.9711163153786104
+cnn_we_dataworld_recall:0.9665889665889665
 cnn_we_pooling_dataworld_accuracy:0.9449644932214332
