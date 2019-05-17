@@ -1,0 +1,17 @@
+crowdflower:
+https://figshare.com/projects/Wikipedia_Talk/16731
+
+ask.fm:
+http://ritual.uh.edu/resources/
+
+detecting_insults_kaggler
+https://www.kaggle.com/c/detecting-insults-in-social-commentary/data
+
+jigsaw_toxic_comment
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+
+hatespeech
+https://github.com/ZeerakW/hatespeech
+
+offensive_language_dataworld
+https://github.com/t-davidson/hate-speech-and-offensive-language

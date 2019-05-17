@@ -1,0 +1,14 @@
+lr_kaggle_accuracy:0.8405093996361431
+nb_kaggle_accuracy:0.8192844147968465
+cnn_bow_kaggle_accuracy:0.8417222560211122
+cnn_bow_kaggle_precision:0.7560975609756098
+cnn_bow_kaggle_recall:0.62
+cnn_we_kaggle_accuracy:0.8241358399752634
+cnn_we_kaggle_precision:0.7222222222222222
+cnn_we_kaggle_recall:0.5777777777777777
+cnn_we_pooling_kaggle_accuracy:0.8399029715340235
+lr_dataworld_accuracy:0.959489993544222
+nb_dataworld_accuracy:0.9067140090380891
+cnn_bow_dataworld_accuracy:0.9480309876955425
+cnn_we_dataworld_accuracy:0.9478695932475115
+cnn_we_pooling_dataworld_accuracy:0.9449644932214332
