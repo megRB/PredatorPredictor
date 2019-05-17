@@ -1,0 +1,6 @@
+def user_analysis(aList, userhandle, resultFromClassification):
+    aList.append(resultFromClassification)
+    dictionary = {userhandle : aList}
+    return dictionary
+
+    
